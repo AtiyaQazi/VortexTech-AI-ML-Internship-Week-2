@@ -222,6 +222,3 @@ This project demonstrates practical implementation of machine learning concepts 
 Computer Science Graduate
 
 ---
-=======
-# VortexTech-AI-ML-Internship-Week-2
->>>>>>> 5393bef2dd4825831624a85bd1432fff4ed1df86
