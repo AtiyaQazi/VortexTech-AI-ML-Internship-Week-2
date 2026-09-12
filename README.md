@@ -1,4 +1,4 @@
-# VortexTech AI-ML Internship — Week 2
+# VortexTech AI-ML Internship - Week 2
 
 ## Machine Learning Model Comparison
 
