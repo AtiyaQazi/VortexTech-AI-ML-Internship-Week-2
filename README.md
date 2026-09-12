@@ -2,7 +2,7 @@
 
 ## Machine Learning Classification Model
 
-This project is part of the **VortexTech AI/ML Internship — Week 2**. It demonstrates a complete machine learning classification workflow using the **Titanic dataset** and Scikit-learn.
+This project is part of the **VortexTech AI-ML Internship-Week 2**. It demonstrates a complete machine learning classification workflow using the **Titanic dataset** and Scikit-learn.
 
 The project covers data exploration, preprocessing, train-test splitting, classification model training, evaluation using multiple metrics, model comparison, and visualization.
 
